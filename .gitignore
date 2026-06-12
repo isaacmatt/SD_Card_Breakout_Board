@@ -1,0 +1,12 @@
+# KiCad temporary and lock files
+*.lck
+~*.lck
+~$*
+*.tmp
+
+# Local history
+.history/
+
+# KiCad backups
+*-backups/
+*.bak
