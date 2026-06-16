@@ -1,4 +1,3 @@
-
 # microSD Card Breakout (SPI, 3.3 V)
 
 A minimal microSD card breakout board for 3.3 V microcontrollers, exposing the card over a 1-bit SPI interface on a 0.1" header. Designed as a hands-on KiCad project with a clean, manufacturable layout.
@@ -178,7 +177,7 @@ Connect the J2 header to your host's SPI pins. The exact host GPIO numbers depen
 
 ## License
 
-[MIT](https://claude.ai/chat/LICENSE) — choose and add a `LICENSE` file. MIT is a common default for open hardware projects; adapt as you prefer.
+MIT — choose and add a `LICENSE` file. MIT is a common default for open hardware projects; adapt as you prefer.
 
 ## Author
 
